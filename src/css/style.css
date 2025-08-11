@@ -115,9 +115,16 @@ body .container {
 }
 @media (max-width: 768px) {
   .modal-popup {
-    width: 80%;
-    right: 10%;
+    width: 90%;
+    right: 5%;
   }
+}
+
+.content-decoration {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
 }
 
 .flatpickr-calendar {
@@ -145,6 +152,13 @@ body .container {
   border-radius: 25px;
   padding: 20px;
   display: none;
+}
+
+@media (max-width: 768px) {
+  .modal-popup-create {
+    width: 90%;
+    right: 5%;
+  }
 }
 
 .modal-popup-create.active {
@@ -284,7 +298,7 @@ header .header-container .header-datetime .datetime-day #datetime-day-info {
 }
 @media (max-width: 768px) {
   header .header-container .header-datetime .datetime-day #datetime-day-info {
-    font-size: 60px;
+    font-size: 40px;
   }
 }
 header .header-container .header-datetime .datetime-decor {
@@ -427,6 +441,12 @@ main .swiper .card-more-icon:hover {
 main .swiper .card-today {
   width: 400px;
   background-color: #eeddc6;
+}
+
+@media (max-width: 768px) {
+  main .swiper .card-today {
+    width: 300px;
+  }
 }
 main .swiper .card-today .card-more-icon {
   width: 70px;

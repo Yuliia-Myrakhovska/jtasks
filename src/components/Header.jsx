@@ -26,7 +26,7 @@ function Header() {
               <img src={icon} alt="Logo" className="logo" />
             </div>
             <div className="header-title">
-              <h1 className="title">Jlist</h1>
+              <h1 className="title">JTasks</h1>
               <h2 className="subtitle">Створюй свої завдання</h2>
             </div>
           </div>

@@ -2,10 +2,16 @@ import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import drop from "../img/drop.svg";
+import img from "../img/Sandy_Edu-03_Single-02.jpg";
 
 function CardSlider({ cards, onCardClick }) {
   if (!cards.length) {
-    return <div>Нет карточек</div>;
+    return (
+      <div className="content-decoration">
+        <img src={img} alt="" />
+        <p>Завдань немає</p>
+      </div>
+    );
   }
 
   return (
