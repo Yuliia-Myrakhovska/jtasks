@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/jtasks/static/css/main.f8befa64.css",
-    "main.js": "/jtasks/static/js/main.b776468e.js",
+    "main.css": "/jtasks/static/css/main.d98c460c.css",
+    "main.js": "/jtasks/static/js/main.bb1f4fd1.js",
     "static/js/453.24e23f40.chunk.js": "/jtasks/static/js/453.24e23f40.chunk.js",
+    "static/media/Sandy_Edu-03_Single-02.jpg": "/jtasks/static/media/Sandy_Edu-03_Single-02.46a2649d7591662ef583.jpg",
     "index.html": "/jtasks/index.html",
     "static/media/add_task.svg": "/jtasks/static/media/add_task.fe551c4a6e2d9a3a3eb40c65683612d0.svg",
     "static/media/icon.svg": "/jtasks/static/media/icon.e189b19aeb030af0f8ac49b482528fc1.svg",
@@ -11,12 +12,12 @@
     "static/media/drop.svg": "/jtasks/static/media/drop.a3ef0755a087380ee170a308f8b5fc79.svg",
     "static/media/left.svg": "/jtasks/static/media/left.29b7d1c90564a74d1b094933644bdc64.svg",
     "static/media/right.svg": "/jtasks/static/media/right.444eee24e14278c37c9107ceefa24812.svg",
-    "main.f8befa64.css.map": "/jtasks/static/css/main.f8befa64.css.map",
-    "main.b776468e.js.map": "/jtasks/static/js/main.b776468e.js.map",
+    "main.d98c460c.css.map": "/jtasks/static/css/main.d98c460c.css.map",
+    "main.bb1f4fd1.js.map": "/jtasks/static/js/main.bb1f4fd1.js.map",
     "453.24e23f40.chunk.js.map": "/jtasks/static/js/453.24e23f40.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8befa64.css",
-    "static/js/main.b776468e.js"
+    "static/css/main.d98c460c.css",
+    "static/js/main.bb1f4fd1.js"
   ]
 }
