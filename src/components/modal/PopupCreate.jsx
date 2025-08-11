@@ -81,7 +81,7 @@ function PopupCreate({ onClose, onAdd }) {
         <span
           className="task-save"
           onClick={() => {
-            handleSubmit;
+            handleSubmit();
             window.location.reload();
           }}
           style={{ cursor: "pointer" }}
