@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.e153f46a.css",
-    "main.js": "/static/js/main.17c46f7f.js",
-    "static/js/453.24e23f40.chunk.js": "/static/js/453.24e23f40.chunk.js",
-    "index.html": "/index.html",
-    "static/media/add_task.svg": "/static/media/add_task.fe551c4a6e2d9a3a3eb40c65683612d0.svg",
-    "static/media/icon.svg": "/static/media/icon.e189b19aeb030af0f8ac49b482528fc1.svg",
-    "static/media/delete.svg": "/static/media/delete.4ce102d5376dec9aed540a183b5844a3.svg",
-    "static/media/close.svg": "/static/media/close.7b2a48880764629813735ad86823a872.svg",
-    "static/media/drop.svg": "/static/media/drop.a3ef0755a087380ee170a308f8b5fc79.svg",
-    "static/media/left.svg": "/static/media/left.29b7d1c90564a74d1b094933644bdc64.svg",
-    "static/media/right.svg": "/static/media/right.444eee24e14278c37c9107ceefa24812.svg",
-    "main.e153f46a.css.map": "/static/css/main.e153f46a.css.map",
-    "main.17c46f7f.js.map": "/static/js/main.17c46f7f.js.map",
-    "453.24e23f40.chunk.js.map": "/static/js/453.24e23f40.chunk.js.map"
+    "main.css": "/jtasks/static/css/main.f8befa64.css",
+    "main.js": "/jtasks/static/js/main.b776468e.js",
+    "static/js/453.24e23f40.chunk.js": "/jtasks/static/js/453.24e23f40.chunk.js",
+    "index.html": "/jtasks/index.html",
+    "static/media/add_task.svg": "/jtasks/static/media/add_task.fe551c4a6e2d9a3a3eb40c65683612d0.svg",
+    "static/media/icon.svg": "/jtasks/static/media/icon.e189b19aeb030af0f8ac49b482528fc1.svg",
+    "static/media/delete.svg": "/jtasks/static/media/delete.4ce102d5376dec9aed540a183b5844a3.svg",
+    "static/media/close.svg": "/jtasks/static/media/close.7b2a48880764629813735ad86823a872.svg",
+    "static/media/drop.svg": "/jtasks/static/media/drop.a3ef0755a087380ee170a308f8b5fc79.svg",
+    "static/media/left.svg": "/jtasks/static/media/left.29b7d1c90564a74d1b094933644bdc64.svg",
+    "static/media/right.svg": "/jtasks/static/media/right.444eee24e14278c37c9107ceefa24812.svg",
+    "main.f8befa64.css.map": "/jtasks/static/css/main.f8befa64.css.map",
+    "main.b776468e.js.map": "/jtasks/static/js/main.b776468e.js.map",
+    "453.24e23f40.chunk.js.map": "/jtasks/static/js/453.24e23f40.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e153f46a.css",
-    "static/js/main.17c46f7f.js"
+    "static/css/main.f8befa64.css",
+    "static/js/main.b776468e.js"
   ]
 }
